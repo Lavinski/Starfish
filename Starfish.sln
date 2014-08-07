@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starfish", "Starfish\Starfish.csproj", "{AE84D0F0-58F8-488C-99DD-F3A13727F75C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starfish.Tests", "Starfish.Tests\Starfish.Tests.csproj", "{D7C06C87-8267-4988-9260-588ECE00E195}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9C3212BA-9AA0-4108-8A73-21CBFCF3C175}"
+	ProjectSection(SolutionItems) = preProject
+		text.settings.json = text.settings.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE84D0F0-58F8-488C-99DD-F3A13727F75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE84D0F0-58F8-488C-99DD-F3A13727F75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE84D0F0-58F8-488C-99DD-F3A13727F75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE84D0F0-58F8-488C-99DD-F3A13727F75C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C06C87-8267-4988-9260-588ECE00E195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C06C87-8267-4988-9260-588ECE00E195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C06C87-8267-4988-9260-588ECE00E195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C06C87-8267-4988-9260-588ECE00E195}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
